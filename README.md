@@ -1,4 +1,5 @@
 # Compostos Químicos no Ar: Dados do CMIP6
+- Feito com a ajuda do Professor Alexandre Candido Xavier [Github do professor]([https://drive.google.com/file/d/1d-7Vkpt5SBiSeaS1iq4q3gj-ijoa5iJp/view?usp=sharing](https://github.com/AlexandreCandidoXavier))
 
 Este projeto utiliza dados quadrimensionais do **CMIP6** para extrair informações sobre compostos químicos poluentes no ar, permitindo a análise integrada com dados de saúde pública. O objetivo é avaliar como fatores ambientais e mudanças climáticas influenciam a saúde no Brasil, especialmente em nível municipal.
 
