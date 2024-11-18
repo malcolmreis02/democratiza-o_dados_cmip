@@ -6,6 +6,8 @@ Este projeto utiliza dados quadrimensionais do **CMIP6** para extrair informaç�
 
 - Transformar bases de dados climáticos complexas (grades quadrimensionais) em tabelas comuns de fácil manipulação.
 - Fornecer um código acessível e prático que permita extrair dados específicos por cidade, simplificando o uso desses dados para análises.
+  
+- ![Mapa de calor mundial](calor_var_time0.png)
 
 ## Vantagens
 
@@ -14,9 +16,8 @@ Este projeto utiliza dados quadrimensionais do **CMIP6** para extrair informaç�
 - **Integração:** Facilita cruzamentos com outras bases de dados, como saúde pública e estudos ambientais.
 - **Reprodutibilidade:** Código transparente e bem documentado para assegurar a confiança nos resultados.
 
-- ![Variável do município](calor_var_time0.png)
-- ![Mapa de calor mundial](calor_var_time0.png)
-- ![Acurácia da construção](comparativo_banco_modelo.png)
+- ![Variável do município](municipio_var_time0.png)
+
 
 ## Links Úteis
 - [Tutorial de uso do código](https://drive.google.com/file/d/1d-7Vkpt5SBiSeaS1iq4q3gj-ijoa5iJp/view?usp=sharing)
@@ -27,3 +28,4 @@ Este projeto utiliza dados quadrimensionais do **CMIP6** para extrair informaç�
 - [VSCode](https://code.visualstudio.com)
 - [Códigos do IBGE](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
 
+- ![Acurácia da construção](comparativo_banco_modelo.png)
